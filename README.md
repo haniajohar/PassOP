@@ -1,12 +1,73 @@
-# React + Vite
+# 🔐 PassOP - Password Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PassOP is a simple, secure, and modern password manager built with Node.js and React. It allows users to store and manage their passwords safely in one place.
 
-Currently, two official plugins are available:
+![passop-ui](./) <!-- Replace with an actual screenshot path -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🧠 Save passwords for multiple platforms (e.g., Facebook, Gmail, etc.)
+- 🔒 Strong password suggestions
+- 🗝️ Password encryption & decryption
+- 🧹 Clean and responsive UI
+- 📋 Copy password to clipboard
+- 🗑️ Delete/update saved entries
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, TailwindCSS
+- **Version Control**: Git + GitHub
+
+## 📁 Folder Structure
+
+```bash
+PassOP/
+├── node_modules/
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   └── main.jsx
+├── .gitignore
+├── package.json
+├── vite.config.js
+└── README.md
+🚧 Setup Instructions
+bash
+Copy
+Edit
+# Clone the repo
+git clone https://github.com/haniajohar/PassOP.git
+
+# Navigate to the project
+cd PassOP
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+🙌 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
+
+📄 License
+MIT License. See LICENSE for details.
+
+🧑‍💻 Author
+Made with 💙 by @haniajohar
+
+yaml
+Copy
+Edit
+
+---
+
+Let me know if you'd like to include:
+
+- Screenshots
+- Demo video/GIF
+- API documentation
+- Deployment link (e.g., Vercel, Netlify)
+
+I can add those too!
