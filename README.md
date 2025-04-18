@@ -2,7 +2,7 @@
 
 PassOP is a simple, secure, and modern password manager built with Node.js and React. It allows users to store and manage their passwords safely in one place.
 
-![passop-ui](./) <!-- Replace with an actual screenshot path -->
+![passop-ui](./Capture.PNG) <!-- Replace with an actual screenshot path -->
 
 ## 🚀 Features
 
